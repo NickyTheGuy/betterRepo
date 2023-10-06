@@ -1,0 +1,2 @@
+# betterRepo
+nick smells..
